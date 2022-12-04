@@ -1,4 +1,4 @@
-package adt;
+package com.kashish.tutorial.dsa;
 
 public class Counter {
     static String name=null;

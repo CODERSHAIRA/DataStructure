@@ -1,4 +1,4 @@
-package com.kashish.tutorial.dsa;
+package com.kashish.tutorial.adt.stack;
 public class CallRWS {
 
 	public static void main(String[] args) {

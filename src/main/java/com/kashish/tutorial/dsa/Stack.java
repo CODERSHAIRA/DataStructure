@@ -2,10 +2,6 @@ package com.kashish.tutorial.dsa;
 
 public class Stack {
 
-	
-		// TODO Auto-generated constructor stub
-	
-			
 			private int maxSize;
 			private long[] stackArray;
 			private int top;
